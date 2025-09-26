@@ -10,3 +10,11 @@ my professional life by making things that I can share with my colleagues to hel
 Studying under Professor William Loring
 
 Jake Nicholes
+
+
+WEEK 4:
+Created skeleton of functions and got the GUI up and running.
+
+WEEK 6:
+Filled out the functions. I believe they can now perform the math tasks by using the eval function. Note that this function is inherintly insecure, so do not
+use it in sensitive areas or projects that access sensitive information.
