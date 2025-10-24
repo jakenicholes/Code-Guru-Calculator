@@ -18,3 +18,7 @@ Created skeleton of functions and got the GUI up and running.
 WEEK 6:
 Filled out the functions. I believe they can now perform the math tasks by using the eval function. Note that this function is inherintly insecure, so do not
 use it in sensitive areas or projects that access sensitive information.
+
+WEEK 10:
+Buttons! Buttons for 0-9 and +,-,*,/,= are set up. Calcuations are not yet being performed, and I still need to figure out the clear button.
+Resized the calculator to better fit my buttons.
