@@ -22,3 +22,7 @@ use it in sensitive areas or projects that access sensitive information.
 WEEK 10:
 Buttons! Buttons for 0-9 and +,-,*,/,= are set up. Calcuations are not yet being performed, and I still need to figure out the clear button.
 Resized the calculator to better fit my buttons.
+
+WEEK 13:
+Equals button is now working. Corrected unneeded lambda in equals function.
+Added clear button.
