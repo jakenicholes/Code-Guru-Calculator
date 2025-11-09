@@ -1,7 +1,7 @@
 """
-Name:   Code-Guru_Wk_10.py
+Name:   Code-Guru_Wk_13.py
 Author: Jake Nicholes
-Date:   10/25/2025
+Date:   11/9/2025
 """
 
 #start by importing tkinter so we can build as a GUI
@@ -107,12 +107,11 @@ digit_divide = tk.Button(root, text="/", command= lambda: add_to_calculation("/"
 digit_divide.grid(row=3, column=5)
 
 #add = button
-digit_equals = tk.Button(root, text="=", command= lambda: evaluate_calculation, width= 5, font=("Arial", 16))
-digit_equals.grid(row=4, column=4)
+digit_equals = tk.Button(root, text="=", command= evaluate_calculation, width= 12, font=("Arial", 16))
+digit_equals.grid(row=4, column=4, columnspan=2)
 
 #add CLEAR button
-"""
-digit_clear = tk.Button(root, text="1", command= lambda: ************, width= 5, font=("Arial", 16))
-digit_clear.grid(row=4, column=5)
-"""
+digit_clear = tk.Button(root, text="C", command= clear_field, width= 12, font=("Arial", 16))
+digit_clear.grid(row=5, column=4, columnspan=2)
+
 root.mainloop()
