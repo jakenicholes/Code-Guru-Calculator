@@ -26,3 +26,6 @@ Resized the calculator to better fit my buttons.
 WEEK 13:
 Equals button is now working. Corrected unneeded lambda in equals function.
 Added clear button.
+
+WEEK 15: FINAL WEEK
+Adjusted size and location of my buttons to improve look and feel.
